@@ -1,4 +1,4 @@
-# UNeXt
+# ECDNet and EDSNet
 
 Official Pytorch Code base for our two projects: ECDNet and EDSNet. Thank you for providing the basic code in paper [UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967), MICCAI 2022. In the process of implementing our project, our backbone part referred to the paper.
 [Paper](https://arxiv.org/abs/2203.04967) | [Project](https://jeya-maria-jose.github.io/UNext-web/)
